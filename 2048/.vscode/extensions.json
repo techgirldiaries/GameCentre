@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-typescript-next",
+        "dbaeumer.vscode-eslint",
+        "dsznajder.es7-react-js-snippets",
+        "eamodio.gitlens",
+        "xabikos.javascriptsnippets"
+    ]
+}
