@@ -1,0 +1,65 @@
+body {
+    display: flex;
+    background: white;
+    justify-content: center;
+    font-family: "Open Sans", "Lato", sans-serif;
+}
+
+h1 {
+    margin: 0px;
+    color: black;
+    font-size: 80px;
+    line-height: 0.7;
+}
+
+.container {
+    width: 468px;
+    margin-top: 30px;
+}
+
+.info {
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+
+.grid{
+    width: 456px;
+    height: 456px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    border-radius: 6px;
+    background-color: beige;
+    border: 7px solid black;
+}
+
+.grid div {
+    margin: 7px;
+    width: 100px;
+    height: 100px;
+    color: black;
+    font-size: 60px;
+    line-height: 1.6;
+    font-weight: bold;
+    border-radius: 3px;
+    text-align: center;
+    background: whitesmoke;
+}
+
+.score-container {
+    width: 70px;
+    height: 60px;
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+    background: black;
+}
+
+#score {
+    font-size: 30px;
+}
+
+.score-title {
+    font-size: 16px;
+}
