@@ -1,9 +1,6 @@
-# easy-games-clone
+# Easy Games Clone
 
-Easy Games Clone is a simplistic approach to playing famous games. It is a fun and interactive online-based games, created using Python for children's educational purpose.
+Easy Games Clone is a simple and interactive collection of games inspired by popular games. It is built entirely in Python code and designed for educational and learning purposes.
 
 ## Find me:
-[My Links](https://linktr.ee/techgirldiaries)
-
-## To support my projects:
-<a href="https://www.buymeacoffee.com/oluwakemi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[My Links](https://linkedin.com/in/oluwakemi-obadeyi)
